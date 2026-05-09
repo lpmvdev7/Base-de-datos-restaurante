@@ -45,4 +45,3 @@ docker exec -it restaurante_db psql -U postgres -d restaurante
 
 **10,010 registros**
 
-```
