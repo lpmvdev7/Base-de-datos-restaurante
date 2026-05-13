@@ -1,5 +1,6 @@
 # Base de Datos Restaurante 🍽️
 Proyecto de base de datos para la gestión de un restaurante
+![Diagrama ER](restaurante-ER.jpeg)
 
 ## Levantar el proyecto
 Ejecutar el siguiente comando para iniciar los contenedores:
