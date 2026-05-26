@@ -1,5 +1,4 @@
 # Base de Datos Restaurante 🍽️
-Documentación técnica completa del modelo relacional para la gestión de una cadena de restaurantes.
 ![Diagrama ER](restaurante-ER.jpeg)
 
 ---
